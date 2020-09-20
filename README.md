@@ -1,5 +1,5 @@
 # OnlineEDocumentShow
-Xml formatındaki belgeyi online görüntüleme
+Xml formatındaki eFatura, eİrsaliye, eArşiv belgesini online görüntüleme
 
 https://hakanucaar.github.io/OnlineEDocumentShow/
 
