@@ -1,11 +1,6 @@
 # OnlineEDocumentShow
 Xml formatındaki eFatura, eİrsaliye, eArşiv belgesini online görüntüleme
 
-https://hakanucaar.github.io/OnlineEDocumentShow/
-
-## Fatura görüntüleme 
-![eDocumentShow.gif](https://github.com/HakanUcaar/OnlineEDocumentShow/blob/master/img/OnlineEDocumentShow.gif)
+[https://efaturastudio.com/studio](https://efaturastudio.com/studio)
 
 
-## Fatura dizaynı değiştirme 
-![eDocumentShow2.gif](https://github.com/HakanUcaar/OnlineEDocumentShow/blob/master/img/OnlineEDocumentShow2.gif)
